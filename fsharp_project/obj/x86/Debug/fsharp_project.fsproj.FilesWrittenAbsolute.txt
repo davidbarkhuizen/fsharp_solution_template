@@ -1,0 +1,5 @@
+/home/mage/code/fsharpsolution/fsharp_project/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/home/mage/code/fsharpsolution/fsharp_project/bin/Debug/fsharp_project.exe.mdb
+/home/mage/code/fsharpsolution/fsharp_project/bin/Debug/fsharp_project.exe
+/home/mage/code/fsharpsolution/fsharp_project/obj/x86/Debug/fsharp_project.exe
+/home/mage/code/fsharpsolution/fsharp_project/obj/x86/Debug/fsharp_project.exe.mdb
